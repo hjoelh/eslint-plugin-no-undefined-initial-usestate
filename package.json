@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-no-undefined-initial-usestate",
+  "version": "1.0.0",
+  "description": "An eslint rule to warn against using undefined as an initial value when using the useState React hook",
+  "main": "no-undefined-initial-usestate.js",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "react eslint",
+    "hook eslint"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.7",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/preset-react": "^7.16.7",
+    "eslint": "^8.11.0"
+  }
+}
