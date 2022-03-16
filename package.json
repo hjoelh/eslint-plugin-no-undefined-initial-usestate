@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-undefined-initial-usestate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An eslint rule to warn against using undefined as an initial value when using the useState React hook",
   "main": "no-undefined-initial-usestate.js",
   "files": [
