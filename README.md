@@ -8,7 +8,7 @@ const [state, useState] = useState(undefined)
 
 
 
-
+jira bot test CA-3563
 install
 ```
 yarn add eslint-plugin-no-undefined-initial-usestate -D
