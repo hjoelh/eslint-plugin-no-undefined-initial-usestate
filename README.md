@@ -18,7 +18,7 @@ npm i eslint-plugin-no-undefined-initial-usestate --save-dev
 
 eslint config 
 ```javascript
-  "plugins": ["no-undefined-initial-usestate"]
+  "plugins": ["no-undefined-initial-usestate"]jira bot test CA-3563
   "rules": {
     "no-undefined-initial-usestate/no-undefined-initial-usestate": "warn",
 ```
