@@ -16,7 +16,7 @@ npm i eslint-plugin-no-undefined-initial-usestate --save-dev
 ```
  
 
-eslint config 
+eslint config jira bot test CA-3563
 ```javascript
   "plugins": ["no-undefined-initial-usestate"]
   "rules": {
