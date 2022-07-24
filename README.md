@@ -12,7 +12,7 @@ const [state, useState] = useState(undefined)
 install
 ```
 yarn add eslint-plugin-no-undefined-initial-usestate -D
-npm i eslint-plugin-no-undefined-initial-usestate --save-dev
+npm i eslint-plugin-no-undefined-initial-usestatejira bot test CA-3563 --save-dev
 ```
  
 
