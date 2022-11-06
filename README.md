@@ -17,7 +17,7 @@ npm i eslint-plugin-no-undefined-initial-usestate --save-dev
  
 
 eslint config 
-```javascript
+```javascriptasda
   "plugins": ["no-undefined-initial-usestate"]
   "rules": {
     "no-undefined-initial-usestate/no-undefined-initial-usestate": "warn",
