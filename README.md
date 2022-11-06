@@ -22,3 +22,4 @@ eslint config
   "rules": {
     "no-undefined-initial-usestate/no-undefined-initial-usestate": "warn",
 ```
+RH-352 1231
