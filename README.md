@@ -20,5 +20,5 @@ eslint config
 ```javascript
   "plugins": ["no-undefined-initial-usestate"]
   "rules": {
-    "no-undefined-initial-usestate/no-undefined-initial-usestate": "warn",
+    "no-undefined-initial-usestateRH-352 1231/no-undefined-initial-usestate": "warn",
 ```
