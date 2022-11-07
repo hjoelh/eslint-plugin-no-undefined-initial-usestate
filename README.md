@@ -11,7 +11,7 @@ const [state, useState] = useState(undefined)
 
 install
 ```
-yarn add eslint-plugin-no-undefined-initial-usestate -D
+yarn add eslint-plugin-no-undefined-iniRH-352 1231tial-usestate -D
 npm i eslint-plugin-no-undefined-initial-usestate --save-dev
 ```
  
@@ -22,3 +22,4 @@ eslint config
   "rules": {
     "no-undefined-initial-usestate/no-undefined-initial-usestate": "warn",
 ```
+RH-352 1231
